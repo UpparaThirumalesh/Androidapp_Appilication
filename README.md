@@ -1,4 +1,4 @@
-# 📱 Koolly App
+# 📱 Kooli App
 
 A location-based Android application designed to help users discover nearby local services such as healthcare, education, household services, and more — especially focusing on small towns and villages where platforms like Google Maps may not show detailed local providers.
 
