@@ -1,4 +1,4 @@
-# 📱 Kooli App
+# 📱 Koolly App
 
 A location-based Android application designed to help users discover nearby local services such as healthcare, education, household services, and more — especially focusing on small towns and villages where platforms like Google Maps may not show detailed local providers.
 
@@ -88,10 +88,12 @@ Coolly-App/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Thirumoorthi**
 *B.Tech Graduate | Software Developer Enthusiast*
+*   **Email:** thiru86420@gmail.com
 *   **Skills:** Android SDK, Java/Kotlin UI development, Firebase integrations, Google Location APIs.
 
 ---
 
 > 📌 **Note:** This project was developed as part of an internship experience focusing on solving real-world local service discovery problems in underserved geographical areas.
+
