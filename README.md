@@ -88,7 +88,7 @@ Coolly-App/
 
 ## 👨‍💻 Author
 
-**Thirumoorthi**
+**Thirumalesh**
 *B.Tech Graduate | Software Developer Enthusiast*
 *   **Email:** thiru86420@gmail.com
 *   **Skills:** Android SDK, Java/Kotlin UI development, Firebase integrations, Google Location APIs.
